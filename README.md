@@ -31,3 +31,8 @@ count: 10000, cycle: 1000000, cgo: 58.956701ms, go: 2.688045373s, cgo/cycle: 58n
 count: 10000, cycle: 5000000, cgo: 280.817687ms, go: 12.719011833s, cgo/cycle: 56ns, go/cycle: 2.543µs cgo/go: 0.0221
 count: 10000, cycle: 10000000, cgo: 562.932582ms, go: 25.596832236s, cgo/cycle: 56ns, go/cycle: 2.559µs cgo/go: 0.0220
 ```
+
+
+![image](http://note.youdao.com/yws/res/33979/66AC52FE3D824263A230D6FA22CF6F7A)
+
+![image](http://note.youdao.com/yws/res/33981/42F1839FF48A49F9A88B66803647CF0D)
