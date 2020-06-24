@@ -33,6 +33,6 @@ count: 10000, cycle: 10000000, cgo: 562.932582ms, go: 25.596832236s, cgo/cycle: 
 ```
 
 
-![image](http://note.youdao.com/yws/res/33979/66AC52FE3D824263A230D6FA22CF6F7A)
+![image](./image1.png)
 
-![image](http://note.youdao.com/yws/res/33981/42F1839FF48A49F9A88B66803647CF0D)
+![image](./image2.png)
